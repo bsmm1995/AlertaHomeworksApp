@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_class"
+            android:icon="@drawable/ic_menu_class"
+            android:title="Tareas Pendientes" />
+        <item
+            android:id="@+id/nav_subjet"
+            android:icon="@drawable/ic_menu_subjet"
+            android:title="Asignaturas" />
+        <!--- <item
+             android:id="@+id/nav_horario"
+             android:icon="@drawable/ic_menu_horario"
+             android:title="Horario" /> -->
+    </group>
+
+    <item android:title="Extras">
+        <menu>
+            <!---
+            <item
+                android:id="@+id/nav_calificaciones"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Calificaciones Examenes" />  -->
+            <item
+                android:id="@+id/nav_archivadas"
+                android:icon="@drawable/ic_action_archivar"
+                android:title="Tareas Archivadas" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Alerta Deberes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen_imagen_view">FullscreenActivityImagenView</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_ver_imagen">VerImagenActivity</string>
+    <string name="description">Description</string>
+    <string name="fecha">FECHA</string>
+    <string name="nueva_tarea">Nueva Tarea</string>
+    <string name="descripcion">DESCRIPTION</string>
+    <string name="hora">HORA</string>
+    <string name="delete">Delete</string>
+
+
+</resources>
